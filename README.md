@@ -1,3 +1,10 @@
+# Info
+Marlieske Doorn
+10834958
+Programmeer project UVA
+# Summary
+Create an Android Application which helps musicians by displaying songs and chords.
+# Proposal
 Het probleem: 
 ------------------
 1 gitaar, 1 kampvuur, maar niemand kan uit zn hoofd liedjes spelen…
