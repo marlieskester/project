@@ -52,3 +52,8 @@ SongbookActivity
 - listview with all saved songs  
 	onclick: SongActivity  
 	onlongclick: remove from list
+
+Design
+--------
+- important: must allow for use outside at day an night -> 2 settings?
+
