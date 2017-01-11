@@ -56,4 +56,6 @@ SongbookActivity
 Design
 --------
 - important: must allow for use outside at day an night -> 2 settings?
+- below: a sketch of the connected activities
 
+![Sketch](/doc/DSC_0417.jpg)
