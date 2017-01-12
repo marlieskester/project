@@ -14,3 +14,8 @@ basically everything starting at songactivity&chordactivity.
 Aim: finish everything up to songactivity&chordactivity this week.
 (maybe except songbook)
 
+# day 4
+Plan for today: get it working up to list-of-songs, get navigation working for entire app.
+
+
+
